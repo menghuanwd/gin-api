@@ -19,7 +19,7 @@ func InitWechat() *miniprogram.MiniProgram {
 	return wc.GetMiniProgram(cfg)
 }
 
-// AuthToken https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wxc2fa0eea1a0b2661&secret=881acc2257ab6ea9cc7a88f84387aff8
+// AuthToken https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=xxxxxx&secret=yyyyyyy
 func AccessToken() (string, error) {
 	return InitWechat().GetAuth().GetAccessToken()
 }
