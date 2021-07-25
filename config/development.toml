@@ -1,0 +1,13 @@
+[redis]
+	host = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+	password = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+	db = 0
+[mysql]
+    host = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+    port = '3306'
+    database = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+    user = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+    password = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+[wechat]
+    app_id = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+    app_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
